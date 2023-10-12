@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+}
+.heading{
+    width: 80%;
+    font-size: 20px;
+}
+.name_of_objects{
+    color:rgb(40, 123, 134);
+}
+#camera{
+    border: 2px dashed black;
+    width: 340px;
+    height: 400px;
+}
+#result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
